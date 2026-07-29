@@ -59,8 +59,11 @@ You will need to edit the setup file with this or directly use the one that has 
 #define SPI_READ_FREQUENCY  20000000
 
 #define LOAD_GLCD   // Font 1. Original Adafruit 8 pixel font needs ~1820 bytes in FLASH
+
 #define LOAD_FONT2  // Font 2. Small 16 pixel high font, needs ~3534 bytes in FLASH, 96 characters
+
 #define LOAD_FONT4  // Font 4. Medium 26 pixel high font, needs ~5848 bytes in FLASH, 96 characters
+
 
 
 
